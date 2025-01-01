@@ -6,6 +6,7 @@ How to Play:
   Guess if the next number in the sequence will be higher or lower than the current number.
   Earn points for each correct guess.
   The game ends when you make an incorrect guess—aim for the best score!
+  --------------------
 After the Run, This game will be shown like : ---
 ![image alt](https://github.com/irfanulkabirhira/Higher-and-Lower-Game/blob/eb8d0293ed1454d9bb52abec91093fc61f54df61/1.png)
 ![image alt](https://github.com/irfanulkabirhira/Higher-and-Lower-Game/blob/c732a0516f5819750982f04f03c0e622191cecc3/2.png)
